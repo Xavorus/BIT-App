@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Bahasa Bottom Button Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Bahasa Bottom Button
+  m_TableCollectionNameGuidString: 62e8ef8c04f96524b82eedbaa9687c49
+  m_Entries:
+  - m_Id: 66235138048
+    m_Key: Learn Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1293589151744
+    m_Key: Leaderboard Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1341802676224
+    m_Key: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344344424448
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2853311914338680834
+  references:
+    version: 2
+    RefIds:
+    - rid: 2853311914338680834
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680509123114

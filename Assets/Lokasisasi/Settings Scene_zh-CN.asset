@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Settings Scene_zh-CN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-CN
+  m_SharedData: {fileID: 11400000, guid: 5c89a04c4280fec4cb586d79f20b8165, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2853311914338680857
+  m_TableData:
+  - m_Id: 114180227072
+    m_Localized: "\u8A9E\u8A00"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 147613024256
+    m_Localized: "\u4E0B\u8F09"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 173533822976
+    m_Localized: "\u5728\u9019\u88E1\u8A2A\u554F\u6211\u5011\u7684"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 227246080000
+    m_Localized: "\u5373\u5C07\u63A8\u51FA"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 6319505408
+    m_Localized: "\u7528\u6236\u540D"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 14565507072
+    m_Localized: "\u96FB\u5B50\u90F5\u4EF6"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 65459191808
+    m_Localized: "\u63CF\u8FF0"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 99416276992
+    m_Localized: "\u4E3B\u984C\u6A21\u5F0F"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 1289784918016
+    m_Localized: "\u7248\u672C"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 274285199360
+    m_Localized: "\u5E6B\u52A9\u958B\u767C\u8005\u6295\u653E\u5EE3\u544A"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 257306656768
+    m_Localized: "\u770B\u9019\u88E1\u7684\u5EE3\u544A"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  - m_Id: 2211088957440
+    m_Localized: "\u8F38\u5165\u6587\u5B57"
+    m_Metadata:
+      m_Items:
+      - rid: 2853311914338680857
+  references:
+    version: 2
+    RefIds:
+    - rid: 2853311914338680857
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000ac780100000000002c64030000000000ac3d0f0000000000ac25170000000000ac951a00000000006c5e2200000000006c67280000000000ece8340000000000ace83b0000000000acdc3f00000000002c4d2c01000000002ccf02020000
